@@ -521,6 +521,7 @@ button:active {
   width: 340px;
   color: #ffffff;
   margin-bottom: 32px;
+  font-weight: 400;
 }
 
 .text_footer {
